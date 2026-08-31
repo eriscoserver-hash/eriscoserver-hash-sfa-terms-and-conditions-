@@ -1,4 +1,4 @@
-# eriscoserver-hash-sfa-terms-and-conditions-
+# Privacy Policy
 Terms and Conditions
 
 Terms and Conditions for In-App Chat Feature
